@@ -1,0 +1,47 @@
+.HeroSec{
+    background: url("/public/imgs/blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+    border: 1px solid black;
+}
+.Skills
+{
+    background-color: rgb(0, 0, 27);
+}
+.skill
+{
+    text-shadow: 4px 4px 3px rgba(143, 143, 145 ,0.5);
+}
+.ContactMe
+{
+    background-color: rgba(116, 95, 218, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(116, 95, 218, 0.2), 0 6px 20px 0 rgba(116, 95, 218, 0.308);
+    margin-left: 150px;
+    width: 120px;
+    height: 40px;
+}
+.aboutMe{
+    color: rgb(11, 11, 68);
+    text-shadow: 6px 6px 4px rgb(128, 128, 219);
+}
+.aboutBtn
+{
+    background-color: rgb(11, 11, 68);
+}
+.HSbar
+{
+    width:100px;
+    height:30px;
+}
+.Port
+{
+    width:20%;
+    height:120px;
+    box-shadow: 0 8px 16px 0 rgb(121, 119, 129), 0 6px 20px 0 rgb(116, 95, 218);
+}
+hr{
+    width:65%;
+    border: 1px solid white;
+}
